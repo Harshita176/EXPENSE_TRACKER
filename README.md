@@ -58,25 +58,13 @@ Expense-Tracker/
 
 ## ⚙️ Installation
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/expense-tracker.git
-```
-
-### 2. Open the project folder
-
-```bash
-cd expense-tracker
-```
-
-### 3. Install Node.js
+### 1. Install Node.js
 
 Download and install Node.js:
 
 https://nodejs.org/
 
-### 4. Run the project
+### 2. Run the project
 
 ```bash
 node server.js
